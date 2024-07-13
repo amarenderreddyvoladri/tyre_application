@@ -18,7 +18,7 @@ public class App {
 		TyreDao dao = new TyreDaoImpl();
 
 		Scanner sc = new Scanner(System.in);
-
+ 
 		while (true) {
 			System.out.println("\nMY  CONTACT APP");
 			System.out.println("----------------");

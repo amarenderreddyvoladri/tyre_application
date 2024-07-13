@@ -14,3 +14,4 @@ To check whether the table is created or not? use "show tables;" in particular d
 To check whether the values are inserted or not? use "SELECT * FROM tyre;" command.
 To Descibe the table tyre use "desc tyre;" command.
 
+
